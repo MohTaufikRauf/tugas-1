@@ -4,4 +4,4 @@
 
 ![respo](Gambar/upik1.PNG)
 
-![renita](Gambar/upik2.PNG)
+![renita](Gambar/upik2.png)
