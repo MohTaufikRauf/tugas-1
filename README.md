@@ -3,3 +3,5 @@
 **Kelas : TI.20.A1** <br>
 
 ![respo](Gambar/upik1.PNG)
+
+![renita](Gambar/upik2.PNG)
